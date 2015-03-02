@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "slothbear",
-    "repositoryName": "slothbear.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"slothbear","repositoryName":"slothbear.github.io","branch":"master"},"site":{"title":"Baxter's Corner","description":"Welcome to Baxter's Corner. Dog blog.","url":"https://slothbear.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"https://slothbear.github.io/themes/Casper"}}
